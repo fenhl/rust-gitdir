@@ -1,0 +1,9 @@
+[package]
+name = "gitdir"
+version = "2.0.0"
+authors = ["Fenhl <fenhl@fenhl.net>"]
+edition = "2018"
+
+[dependencies]
+dirs = "2"
+itertools = "0"
